@@ -1,0 +1,20 @@
+Http headers
+Api's working
+
+Rest-Api and Express js
+Get -> query string & params    -> Ajax
+Authorization and authentication 
+Post ->  req(multiple wsy)- body, formdata/mutipart
+
+{content type} - passed -> status code and what needs to written as status code.
+what is the concept of caching in express? and the process of caching?
+
+how to form an obj.
+OOP tree -> n child and adding futher children to the child
+=> joi validations {npm}
+
+1.Using swagger {Api documentation}
+2.TDD - Test driven development {always stick}
+[Mocha and Chai -- JEST(blooming) -- assersions library]
+
+sql => when use joins, unions and transcations.
