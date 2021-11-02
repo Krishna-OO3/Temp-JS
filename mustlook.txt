@@ -2,19 +2,21 @@ Http headers
 Api's working
 
 Rest-Api and Express js
-Get -> query string & params    -> Ajax
-Authorization and authentication 
-Post ->  req(multiple wsy)- body, formdata/mutipart
+Get => query string & params    -> Ajax 
+Post =>  req(multiple ways)- body, formdata/mutipart
+Update, Delete(Mostly wont use)
 
+Authorization and Authentication
 {content type} - passed -> status code and what needs to written as status code.
+(explore several methods)
 what is the concept of caching in express? and the process of caching?
 
-how to form an obj.
-OOP tree -> n child and adding futher children to the child
 => joi validations {npm}
 
 1.Using swagger {Api documentation}
-2.TDD - Test driven development {always stick}
+2.TDD - Test driven development 
 [Mocha and Chai -- JEST(blooming) -- assersions library]
+3. Code Coverage - Istanbul
+sql => when use joins, triggers, unions and transcations.
 
-sql => when use joins, unions and transcations.
+nosql=> mongodb 
