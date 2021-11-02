@@ -26,9 +26,10 @@
 // const myobj = new myFunction()
 // console.log(myobj());
 // If we are using arrow function we cannot use new keyword with it.
-// The arrow functions are creaeted in such a way that the value inside them directly points to the parent and soes not have a constructor.
+// The arrow functions are created in such a way that the value inside them directly points to the parent and does not have a constructor.
 
 // Regular function example:
+
 // function myCar() {
 //     this.fuel = 0;
        // this refers to mycar
